@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer from the Chicagoland area</h3>
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **vanilla JavaScript game animation/ design**
 
 - 👨‍💻 All of my projects are available at [trevorklein.netlify.app](trevorklein.netlify.app)
 
