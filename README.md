@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **JavaScript game design & animation**
 
-- 👨‍💻 All of my projects are available at [trevorklein.netlify.app](trevorklein.netlify.app)
-
 - 📫 You can reach me at **trevor.klein@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
