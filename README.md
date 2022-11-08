@@ -2,7 +2,9 @@
 <h3 align="center">A passionate frontend developer from the Chicagoland area</h3>
 <h3 align="center">and I want to be your next Software Engineer!</h3>
 
-- 🌱 I’m currently learning **JavaScript game design & animation**
+- 🌱 I’m currently learning **react.js**
+
+- 👨‍💻 All of my projects are available at [trevorklein.netlify.app](trevorklein.netlify.app)
 
 - 📫 You can reach me at **trevor.klein@gmail.com**
 
