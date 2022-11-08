@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **react.js**
 
-- 👨‍💻 All of my projects are available at [trevorklein.netlify.app](trevorklein.netlify.app)
+- 👨‍💻 All of my projects are available at [trevorklein.netlify.app](http://trevorklein.netlify.app)
 
 - 📫 You can reach me at **trevor.klein@gmail.com**
 
