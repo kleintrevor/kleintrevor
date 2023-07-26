@@ -27,7 +27,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats-kleintrevor.vercel.app/api/top-langs?username=kleintrevor&layout=donut&show_icons=true&theme=dark#gh-dark-mode-only&locale=en&langs_count=8" alt="kleintrevor" /></p>
+<p><img align="center" src="https://github-readme-stats-kleintrevor.vercel.app/api/top-langs?username=kleintrevor&layout=donut&show_icons=true&theme=dark#gh-dark-mode-only&locale=en&langs_count=9&hide=html" alt="kleintrevor" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kleintrevor"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kleintrevor" /></a></p><br><br>
