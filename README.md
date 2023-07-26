@@ -2,19 +2,20 @@
 <h3 align="center">A passionate fullstack Javascript developer from the Chicagoland area</h3>
 <h3 align="center">and I want to be your next Software Engineer!</h3>
 
+<h3>🚀 About Me</h3>
+
 - 🌱 I’m currently learning **react.js**
 
-- 👨‍💻 All of my projects are available at [trevorklein.netlify.app](http://trevorklein.netlify.app)
+- 👨‍💻 Some of my client work is available at [trevorklein.netlify.app](http://trevorklein.netlify.app)
 
 - 📫 You can reach me at **trevor.klein@gmail.com**
 
 <h3>🔭 Featured Projects</h3>
 
 Here are some of the notable projects I've been working on:
+   * <p><a href="https://github.com/kleintrevor/Manager-on-Duty-0.1" target="blank">Manager-on-Duty-0.1</a>  - Application will optimize the time spent reporting MoD updates between departments.</p>  
 
-    Manager-on-Duty-0.1  - Application will optimize the time spent reporting MoD updates between departments.
-
-Feel free to explore my other repositories for more interesting projects!</h3>
+Feel free to explore my other repositories for more interesting projects!
 
 <h3>👯‍♂️ Collaboration</h3>
 <p>I'm always open to collaborating on interesting projects. If you think my skills align with your idea or you'd like to work together, feel free to reach out to me.</p>
@@ -44,7 +45,8 @@ Feel free to explore my other repositories for more interesting projects!</h3>
 | ----------------- |:--------------:|
 | Darknet Diaries   | Grunge Forever |
 | Javascript Jabber | Essential Ska  |
-|                   |                |
+| Practical AI      | Spotify DJ     |
+
 
 <h3 align="left">Support:</h3>
 <p>If you find value in my projects or content and want to support my work, you can</p>
